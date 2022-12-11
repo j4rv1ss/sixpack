@@ -1,0 +1,19 @@
+body{
+    font-size: 20px;
+    background-color: aqua;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul{
+    list-style: square inside;
+}
+
+.small{
+    border: 3px solid black;
+    width: 300px;
+    padding: 20px;
+    margin: 30px;
+    background-color: white;
+}
